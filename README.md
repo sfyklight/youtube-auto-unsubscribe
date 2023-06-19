@@ -10,8 +10,9 @@ Open DevTools->Console
 Past And Run JS Code 
 
 
-------------JS CODE:--------------
+------------JS CODE--------------
 
+```
 function youtubeUnsubscriber() {
     var count = document.querySelectorAll("ytd-channel-renderer:not(.ytd-item-section-renderer)").length;
     var randomDelay = 500;
@@ -54,3 +55,5 @@ function youtubeUnsubscriber() {
 }
 
 youtubeUnsubscriber();
+
+```
