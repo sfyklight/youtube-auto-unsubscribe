@@ -4,10 +4,10 @@
 Go https://www.youtube.com/feed/channels
 
 #Stage 2 :
-Open DevTools->Console
+Open DevTools->Console (Inspect)
 
 #Stage 3 :
-Past And Run JS Code 
+Paste And Run JS Code 
 
 
 ------------JS CODE--------------
